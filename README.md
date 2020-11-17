@@ -1,7 +1,12 @@
 # Resources for Data Engineering
 
-##### RDBMS
+##### General
 
+* [Push vs Pull strategy](https://www.toolbox.com/tech/data-management/blogs/push-or-pull-loosely-or-tightly-coupled-etl-100507/)
+
+
+
+##### RDBMS
 * [RDBMS Course for DQL](https://www.coursera.org/learn/sql-for-data-science)  
 * [RDBMS course for data modeling, DDL & DML](https://www.coursera.org/learn/database-management?specialization=data-warehousing)
 * [PostgreSQL](https://www.postgresqltutorial.com/)
@@ -12,7 +17,6 @@
  [[1]](https://www.postgresql.org/docs/9.1/tutorial-window.html) [[2]](https://blog.sqlauthority.com/2015/11/04/sql-server-what-is-the-over-clause-notes-from-the-field-101/)
 
 ##### NoSQL
-
 * [Types of NoSQL Databases](https://www.xenonstack.com/blog/nosql-databases/)
 * [ACID vs CAP](https://www.voltdb.com/blog/2015/10/disambiguating-acid-cap/)
 * Apache Cassandra
@@ -25,6 +29,6 @@
 
 ##### Hadoop
 
-1. [HDFS & Spark Fundamentals](https://www.coursera.org/learn/big-data-essentials)
-2. [Extra tutorial for Hadoop](https://www.youtube.com/playlist?list=PLf0swTFhTI8rT3ApjBqt338MCO0ZvReFt)
+1. [Data Engineering Bootcamp](https://www.youtube.com/playlist?list=PLf0swTFhTI8qhMM6uka63ASG1RrRHws4o)
+2. [HDFS & Spark Fundamentals](https://www.coursera.org/learn/big-data-essentials)
 
